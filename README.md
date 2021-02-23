@@ -60,7 +60,7 @@ Step: 1900 | Loss: 0.500 | Acc: 88.287% (5035/5703) |Combined Acc: 89.076% (5080
 
 ### Original image  
 
-<div align=center><img src="https://github.com/IDayday/GradCAM-of-PMG/blob/main/1.jpg" width="150" alt="1.jpg"><img src="https://github.com/IDayday/GradCAM-of-PMG/blob/main/9.jpg" width="150" alt="9.jpg"></div>  
+<img src="https://github.com/IDayday/GradCAM-of-PMG/blob/main/1.jpg" width="150" alt="1.jpg"><img src="https://github.com/IDayday/GradCAM-of-PMG/blob/main/9.jpg" width="150" alt="9.jpg">
 
 ### Convs visualization
 
