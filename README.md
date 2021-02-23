@@ -54,5 +54,13 @@ Step: 1800 | Loss: 0.503 | Acc: 88.247% (4768/5403) |Combined Acc: 89.025% (4810
 Step: 1850 | Loss: 0.501 | Acc: 88.259% (4901/5553) |Combined Acc: 89.069% (4946/5553)
 Step: 1900 | Loss: 0.500 | Acc: 88.287% (5035/5703) |Combined Acc: 89.076% (5080/5703)
 ```
->The up lines are acc in trainsets, others are acc in testsets. It has been closed to the SOTA accuracy.(I trained 80 epochs)
-## GradCAM Results
+* The up lines are acc in trainsets, others are acc in testsets. It has been closed to the SOTA accuracy.(I trained 80 epochs)
+
+## GradCAM Results  
+### Original image  
+<div align=center><img src="https://github.com/IDayday/GradCAM-of-PMG/blob/main/1.jpg" width="150" alt="1.jpg"><img src="https://github.com/IDayday/GradCAM-of-PMG/blob/main/9.jpg" width="150" alt="9.jpg"></div>  
+### Convs visualization  
+conv_block1|conv_block2|conv_block3
+:---:|:---:|:---:
+<img src="https://github.com/IDayday/GradCAM-of-PMG/blob/main/conv_block1_class003_1.jpg" width="150" alt="1.jpg">|<img src="https://github.com/IDayday/GradCAM-of-PMG/blob/main/conv_block2_class003_1.jpg" width="150" alt="1.jpg">|<img src="https://github.com/IDayday/GradCAM-of-PMG/blob/main/conv_block3_class003_1.jpg" width="150" alt="1.jpg">
+<img src="https://github.com/IDayday/GradCAM-of-PMG/blob/main/conv_block1_class003_9.jpg" width="150" alt="1.jpg">|<img src="https://github.com/IDayday/GradCAM-of-PMG/blob/main/conv_block2_class003_9.jpg" width="150" alt="1.jpg">|<img src="https://github.com/IDayday/GradCAM-of-PMG/blob/main/conv_block3_class003_9.jpg" width="150" alt="1.jpg">
