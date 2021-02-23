@@ -59,8 +59,9 @@ Step: 1900 | Loss: 0.500 | Acc: 88.287% (5035/5703) |Combined Acc: 89.076% (5080
 ## GradCAM Results  
 
 ### Original image  
-
-<img src="https://github.com/IDayday/GradCAM-of-PMG/blob/main/1.jpg" width="150" alt="1.jpg"><img src="https://github.com/IDayday/GradCAM-of-PMG/blob/main/9.jpg" width="150" alt="9.jpg">
+1.jpg|9.jpg
+:---:|:---:
+<img src="https://github.com/IDayday/GradCAM-of-PMG/blob/main/1.jpg" width="150" alt="1.jpg">|<img src="https://github.com/IDayday/GradCAM-of-PMG/blob/main/9.jpg" width="150" alt="9.jpg">
 
 ### Convs visualization
 
