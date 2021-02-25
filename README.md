@@ -61,11 +61,11 @@ Step: 1900 | Loss: 0.500 | Acc: 88.287% (5035/5703) |Combined Acc: 89.076% (5080
 ### Original image  
 1.jpg|9.jpg
 :---:|:---:
-<img src="https://github.com/IDayday/GradCAM-of-PMG/blob/main/1.jpg" width="150" alt="1.jpg">|<img src="https://github.com/IDayday/GradCAM-of-PMG/blob/main/9.jpg" width="150" alt="9.jpg">
+<img src="https://github.com/IDayday/GradCAM-of-PMG/blob/main/original%20img/1.jpg" width="150" alt="1.jpg">|<img src="https://github.com/IDayday/GradCAM-of-PMG/blob/main/original%20img/9.jpg" width="150" alt="9.jpg">
 
 ### Convs visualization
 
 conv_block1|conv_block2|conv_block3|conv_block_concat
 :---:|:---:|:---:|:---:
-<img src="https://github.com/IDayday/GradCAM-of-PMG/blob/main/conv_block1_class003_1.jpg" width="150" alt="1.jpg">|<img src="https://github.com/IDayday/GradCAM-of-PMG/blob/main/conv_block2_class003_1.jpg" width="150" alt="1.jpg">|<img src="https://github.com/IDayday/GradCAM-of-PMG/blob/main/conv_block3_class003_1.jpg" width="150" alt="1.jpg">|<img src="https://github.com/IDayday/GradCAM-of-PMG/blob/main/conv_block_concat_class003_1.jpg" width="150" alt="1.jpg">
-<img src="https://github.com/IDayday/GradCAM-of-PMG/blob/main/conv_block1_class003_9.jpg" width="150" alt="9.jpg">|<img src="https://github.com/IDayday/GradCAM-of-PMG/blob/main/conv_block2_class003_9.jpg" width="150" alt="9.jpg">|<img src="https://github.com/IDayday/GradCAM-of-PMG/blob/main/conv_block3_class003_9.jpg" width="150" alt="9.jpg">|<img src="https://github.com/IDayday/GradCAM-of-PMG/blob/main/conv_block_concat_class003_9.jpg" width="150" alt="9.jpg">
+<img src="https://github.com/IDayday/GradCAM-of-PMG/blob/main/cam%20results/conv_block1_class003_1.jpg" width="150" alt="1.jpg">|<img src="https://github.com/IDayday/GradCAM-of-PMG/blob/main/cam%20results/conv_block2_class003_1.jpg" width="150" alt="1.jpg">|<img src="https://github.com/IDayday/GradCAM-of-PMG/blob/main/conv_block3_class003_1.jpg" width="150" alt="1.jpg">|<img src="https://github.com/IDayday/GradCAM-of-PMG/blob/main/cam%20results/conv_block_concat_class003_1.jpg" width="150" alt="1.jpg">
+<img src="https://github.com/IDayday/GradCAM-of-PMG/blob/main/cam%20results/conv_block1_class003_9.jpg" width="150" alt="9.jpg">|<img src="https://github.com/IDayday/GradCAM-of-PMG/blob/main/cam%20results/conv_block2_class003_9.jpg" width="150" alt="9.jpg">|<img src="https://github.com/IDayday/GradCAM-of-PMG/blob/main/cam%20results/conv_block3_class003_9.jpg" width="150" alt="9.jpg">|<img src="https://github.com/IDayday/GradCAM-of-PMG/blob/main/cam%20results/conv_block_concat_class003_9.jpg" width="150" alt="9.jpg">
