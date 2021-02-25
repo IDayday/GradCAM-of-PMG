@@ -9,13 +9,13 @@ import numpy as np
 import os
 from utils import *
 
-model_path='./bird/model.pth'
+model_path='./checkpoint/model.pth'
 net = torch.load(model_path)
 model_name = net
 pretrained = True
 checkpoint_path = model_path
 device = 'cpu'
-label_path = './CUB_200_2011/CUB_200_2011/CUB_200_2011/labels.json'
+label_path = './labels.json'
 img_path = './9.jpg'
 out_name = '_class003_9'
 """
